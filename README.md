@@ -213,10 +213,4 @@ This project demonstrates knowledge of:
 
 ---
 
-## 👩‍💻 Author
 
-GitHub: https://github.com/your-username
-
----
-
-## ⭐ If you found this project helpful, don't forget to give it a Star!
